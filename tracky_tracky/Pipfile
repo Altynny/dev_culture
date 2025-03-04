@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+wheel = "*"
+
+[dev-packages]
+autopep8 = "*"
+pytest = "*"
+setuptools = "*"
+
+[requires]
+python_version = "3.12"
