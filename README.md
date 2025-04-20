@@ -20,7 +20,7 @@
 
 ---
 
-[Рефакторинг кода](/tracky_tracky)
+[Рефакторинг кода](/refactoring)
 
 Связанные issue:
 - [Рефакторинг муравьиного алгоритма](https://github.com/Altynny/dev_culture/issues/2)
