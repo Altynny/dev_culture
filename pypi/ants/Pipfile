@@ -4,10 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+wheel = "*"
 
 [dev-packages]
 pytest = "*"
 autopep8 = "*"
+setuptools = "*"
 
 [requires]
 python_version = "3.12"
