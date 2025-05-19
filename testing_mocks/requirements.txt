@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+pydantic
+passlib
+python-jose
+pyjwt
+questionary
+rich
+requests
+bcrypt
